@@ -10,7 +10,7 @@ int enforcou();
 int jaChutou(char resposta);
 void resetarVariaveis();
 void imprimirBancoPalavras();
-int verificarBancoPalavra();
+int verificarBancoPalavra(char* palavraVerificar);
 void palavraMaiuscula(char* string);
 void adicionarPalavra();
 int chutesErrados();
